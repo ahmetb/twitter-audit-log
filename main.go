@@ -42,7 +42,7 @@ func main() {
 	)
 	for _, v := range []*string{&consumerKey, &consumerSecret, &accessToken, &tokenSecret} {
 		if vv := os.Getenv(*v); vv == "" {
-			panic(*v + "env var not set")
+			panic(*v + " env var not set")
 		} else {
 			*v = vv
 		}
