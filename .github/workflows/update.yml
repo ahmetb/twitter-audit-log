@@ -23,10 +23,11 @@ jobs:
         set -e
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git config --global user.name "${GITHUB_ACTOR}"
+
         (
           d="$(date --rfc-3339=s)"
           set -x
           git add --all
-          git commit -m "Periodic update: $d"
+          git commit --allow-empty -m "Periodic update: $d"
           git push origin master
         )
