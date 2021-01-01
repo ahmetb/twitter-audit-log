@@ -1,4 +1,7 @@
-on: push
+name: Collect twitter data
+on:
+  schedule:
+    - cron: "50 21 * * *"
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -18,16 +21,34 @@ jobs:
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
         TWITTER_TOKEN_SECRET: ${{ secrets.TWITTER_TOKEN_SECRET }}
-    - name: Commit
+    - name: Fetch muted accounts
+      run: go run . -- mutes > muted_accounts.txt
+      env:
+        TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+        TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+        TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+        TWITTER_TOKEN_SECRET: ${{ secrets.TWITTER_TOKEN_SECRET }}
+    - name: Fetch following
+      run: go run . -- following > following.txt
+      env:
+        TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+        TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+        TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+        TWITTER_TOKEN_SECRET: ${{ secrets.TWITTER_TOKEN_SECRET }}
+    - name: Fetch followers
+      run: go run . -- followers > followers.txt
+      env:
+        TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+        TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+        TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+        TWITTER_TOKEN_SECRET: ${{ secrets.TWITTER_TOKEN_SECRET }}
+    - name: Commit results
       run: |
         set -e
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git config --global user.name "${GITHUB_ACTOR}"
 
-        (
-          d="$(date --rfc-3339=s)"
-          set -x
-          git add --all
-          git commit --allow-empty -m "Periodic update: $d"
-          git push origin master
-        )
+        d="$(date --rfc-3339=s)"
+        git add --all
+        git commit --allow-empty -m "Periodic update: $d"
+        git push origin master
