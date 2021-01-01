@@ -12,31 +12,29 @@ jobs:
       uses: actions/setup-go@v1
       with:
         go-version: 1.14
-    - name: Build
-      run: go install .
     - name: Fetch blocked accounts
-      run: go run . -- blocks > blocked_accounts.txt
+      run: cd ./tool && go run . -- blocks > blocked_accounts.txt
       env:
         TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
         TWITTER_TOKEN_SECRET: ${{ secrets.TWITTER_TOKEN_SECRET }}
     - name: Fetch muted accounts
-      run: go run . -- mutes > muted_accounts.txt
+      run: cd ./tool && go run . -- mutes > muted_accounts.txt
       env:
         TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
         TWITTER_TOKEN_SECRET: ${{ secrets.TWITTER_TOKEN_SECRET }}
     - name: Fetch following
-      run: go run . -- following > following.txt
+      run: cd ./tool && go run . -- following > following.txt
       env:
         TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
         TWITTER_TOKEN_SECRET: ${{ secrets.TWITTER_TOKEN_SECRET }}
     - name: Fetch followers
-      run: go run . -- followers > followers.txt
+      run: cd ./tool && go run . -- followers > followers.txt
       env:
         TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
