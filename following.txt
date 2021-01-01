@@ -207,4 +207,3 @@
 150517734,tonypujals
 42531023,dalequark
 395546933,istanbul_techie
-30192824,GergelyOrosz
