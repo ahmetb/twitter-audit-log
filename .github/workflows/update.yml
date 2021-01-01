@@ -11,10 +11,23 @@ jobs:
         go-version: 1.14
     - name: Build
       run: go install .
-    - name: Fetch ID
-      run: go run . -- id
+    - name: Fetch blocked accounts
+      run: go run . -- blocks > blocked_accounts.txt
       env:
         TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
         TWITTER_TOKEN_SECRET: ${{ secrets.TWITTER_TOKEN_SECRET }}
+    - name: Commit
+      run: |
+        set -e
+        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        git config --global user.name "${GITHUB_ACTOR}"
+
+        (
+          d="$(date --rfc-3339=s)"
+          set -x
+          git add --all
+          git commit -m "Update $d"
+          git push origin master
+        )
