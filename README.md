@@ -22,7 +22,7 @@ This repository backs up my
    - TWITTER_CONSUMER_SECRET
    - TWITTER_TOKEN_SECRET
 
-1. See [.github/workflows/update.yml](github/workflows/update.yml) and modify
+1. See [.github/workflows/update.yml](./github/workflows/update.yml) and modify
    the cron schedule (in UTC) as you see fit.
 
 1. Commit and push. Once the time arrives, the cron would work, and commit
