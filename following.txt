@@ -82,7 +82,6 @@
 5727802,Neurotic
 24465261,cj_cullen
 202432878,MimmingCodes
-48611606,mattrickard
 6603532,b0rk
 14053823,jzemlin
 2175603630,janet_kuo
@@ -136,7 +135,6 @@
 80703,garethr
 40291925,amcasari
 862920460077383681,semihenergin
-328240301,lindydonna
 21361484,dmitshur
 122923515,embano1
 215300789,nathankpeck
@@ -175,10 +173,8 @@
 234455357,CalCorpLawyer
 3233484298,year_progress
 916082930207752193,mattomata
-1190303043952103424,KnativeTips
 23119057,fatih
 47816573,bradgeesaman
-972044366205411330,GoogleVRP
 2253762463,RefetGurkaynak
 253943346,fshewl
 12876,edd
