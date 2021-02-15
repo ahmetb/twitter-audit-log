@@ -95,7 +95,6 @@
 9706692,dgageot
 930586778850881536,erictune4
 107934145,cheddarmint
-6296522,adamse
 262914828,sethvargo
 3421725903,lukburchard
 817880,lizrice
