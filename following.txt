@@ -32,7 +32,6 @@
 1198537832,coreos
 21070898,thauburger
 2536271593,carissakarcher
-68299529,superguenter
 210193709,dotpem
 521935978,hausdorff_space
 1591197324,ibuildthecloud
@@ -179,7 +178,6 @@
 2786053933,zei_squirrel
 150517734,tonypujals
 356930534,gabrtv
-16076032,ggreenwald
 5435752,jeffwilcox
 126868398,jeffhollan
 100691776,jonjonsonjr
@@ -187,7 +185,6 @@
 22565664,urbnlivn
 103377535,MCMGHomes
 124565764,nwmls
-1065249714214457345,TwitterSpaces
 1202267633049100291,mervenoyann
 23839835,jeremyscahill
 1139919386440065026,demswatchdog
