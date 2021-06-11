@@ -206,4 +206,3 @@
 9943312,glennkelman
 560621811,NazimSalur
 1681855874,goinggodotnet
-1396491776739905542,TechEmails
