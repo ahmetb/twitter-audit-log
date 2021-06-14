@@ -201,7 +201,6 @@
 1038137052800331776,FairweatherPhD
 2800135940,dbradstock
 21621562,stephenaugustus
-835996764,Dixie3Flatline
 15397636,mauilion
 9943312,glennkelman
 560621811,NazimSalur
