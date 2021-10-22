@@ -160,7 +160,6 @@
 1164171858683449344,memenetes
 19847709,mekkaokereke
 22572168,glasnt
-21985265,kniga
 252731862,jplts
 799166785,the_thagomizer
 3453491306,ralph_squillace
