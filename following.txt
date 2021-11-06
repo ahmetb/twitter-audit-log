@@ -172,7 +172,6 @@
 150517734,tonypujals
 356930534,gabe_monroy
 5435752,jeffwilcox
-126868398,jeffhollan
 100691776,jonjonsonjr
 22565664,urbnlivn
 124565764,nwmls
