@@ -143,7 +143,6 @@
 5674722,dims
 36611939,fehmicansaglam
 1105099921236086784,CorneliusWeig
-947887170,gblaquiere
 850354944,resouer
 11263102,awadallah
 475081558,TitusWinters
@@ -219,3 +218,5 @@
 21034036,cdwort
 2330381,Lethain
 12819682,mitchellh
+3092541736,MorningBrew
+40026527,XanderGrzy
