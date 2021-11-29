@@ -85,7 +85,6 @@
 23660506,ossamaalami
 809489899472633857,the_saad_ali
 415818433,saraclay15
-41165883,JustinBeckwith
 16277863,pwittrock
 166583984,rhein_wein
 9706692,dgageot
@@ -102,7 +101,6 @@
 403915777,tallclair
 181421156,jaicesd
 23971403,adriancolyer
-77293,monadic
 75836507,jonpulsifer
 236828759,tonistiigi
 1975851,spiffxp
@@ -225,3 +223,4 @@
 12,jack
 604252261,heidiann360
 14110325,jayholler
+14486697,paraga
