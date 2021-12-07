@@ -15,7 +15,6 @@
 14287933,caglar10ur
 45036289,OpenAtMicrosoft
 497296988,yildiz
-229021888,fkadev
 107586555,eric_brewer
 237002494,crosbymichael
 1138959692,Docker
@@ -26,7 +25,6 @@
 71531021,gossmanster
 11052222,proppy
 28576494,felixrieseberg
-21752304,arnaudporterie
 14797033,daronyondem
 1198537832,coreos
 21070898,thauburger
@@ -46,7 +44,6 @@
 294127712,BrandonPhilips
 1591568383,funcOfJoe
 29255412,tjholowaychuk
-106178599,vishnukanan
 605643,mndoci
 3286770860,CloudNativeFdn
 347488218,tiffanyfayj
@@ -65,12 +62,10 @@
 3840737293,erjohnso
 480643825,GoldbergChen
 235129029,agl__
-248270216,TimSwast
 9726122,theavalkyrie
 18250067,craigbox
 3301796372,aaronprindle
 114391809,apbhatnagar
-15196120,tekgrrl
 75778654,meteatamel
 332018940,SRobTweets
 48452245,WilliamDenniss
@@ -88,7 +83,6 @@
 16277863,pwittrock
 166583984,rhein_wein
 9706692,dgageot
-930586778850881536,erictune4
 107934145,cheddarmint
 262914828,sethvargo
 3421725903,lukburchard
@@ -118,7 +112,6 @@
 1021793421541793793,AikasVille
 21694917,steren
 80703,garethr
-40291925,amcasari
 862920460077383681,semihenergin
 21361484,dmitshur
 122923515,embano1
@@ -132,7 +125,6 @@
 17394561,ManoMarks
 799616,_JamesWard
 718483,crcsmnky
-14479606,texasmichelle
 2474676878,lorenc_dan
 289257757,soltysh
 272842070,yoshiat
@@ -152,17 +144,14 @@
 47816573,bradgeesaman
 2253762463,RefetGurkaynak
 253943346,fshewl
-930536390101749760,di_codes
 1164171858683449344,memenetes
 19847709,mekkaokereke
-22572168,glasnt
 252731862,jplts
 3453491306,ralph_squillace
 34295510,muratdemirbas
 809642,ImJasonH
 14636038,ptone
 426067300,PatHelland
-73375191,MacHomebrew
 2786053933,zei_squirrel
 150517734,tonypujals
 356930534,gabe_monroy
@@ -170,7 +159,6 @@
 100691776,jonjonsonjr
 22565664,urbnlivn
 124565764,nwmls
-1202267633049100291,mervenoyann
 23839835,jeremyscahill
 1353121241473970177,SuProductivity
 905841709841600513,hasheddan
@@ -179,14 +167,12 @@
 1366293442574319617,projectsigstore
 122053508,francesc
 1376638214920753154,ThomasOrTK
-1300994245,tyler_treat
 9551792,solomonstre
 1038137052800331776,FairweatherPhD
 2800135940,dbradstock
 21621562,stephenaugustus
 15397636,mauilion
 560621811,NazimSalur
-1681855874,goinggodotnet
 28255028,gctaylor
 14413240,arschles
 650013,bradfitz
@@ -226,3 +212,6 @@
 14486697,paraga
 2814837002,diaspora_turk
 337119125,wongmjane
+14897303,kayvz
+774174489458331649,TheMossadIL
+850205068733235200,nicktornow
