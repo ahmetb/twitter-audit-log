@@ -73,7 +73,6 @@
 5727802,Neurotic
 24465261,cj_cullen
 6603532,b0rk
-14053823,jzemlin
 2175603630,janet_kuo
 95347396,idvoretskyi
 374291300,westonhutchins
@@ -81,15 +80,12 @@
 809489899472633857,the_saad_ali
 415818433,saraclay15
 16277863,pwittrock
-166583984,rhein_wein
 9706692,dgageot
 107934145,cheddarmint
 262914828,sethvargo
 3421725903,lukburchard
 817880,lizrice
 37576654,uhoelzle
-14137772,ashleymcnamara
-15926706,enisoc
 975116784641589249,KubernetesPod
 772080865627242496,TheNikhita
 403915777,tallclair
@@ -172,7 +168,6 @@
 2800135940,dbradstock
 21621562,stephenaugustus
 15397636,mauilion
-560621811,NazimSalur
 28255028,gctaylor
 14413240,arschles
 650013,bradfitz
@@ -205,12 +200,9 @@
 14361975,rothgar
 1395769814061228033,KC_RHA
 783214,Twitter
-1118652581310545922,awesomekling
-12,jack
 604252261,heidiann360
 14110325,jayholler
 14486697,paraga
-2814837002,diaspora_turk
 337119125,wongmjane
 14897303,kayvz
 774174489458331649,TheMossadIL
