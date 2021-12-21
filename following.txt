@@ -70,7 +70,6 @@
 332018940,SRobTweets
 48452245,WilliamDenniss
 13127822,IanMLewis
-5727802,Neurotic
 24465261,cj_cullen
 6603532,b0rk
 2175603630,janet_kuo
