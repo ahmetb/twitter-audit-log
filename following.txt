@@ -153,7 +153,6 @@
 22565664,urbnlivn
 124565764,nwmls
 23839835,jeremyscahill
-1353121241473970177,SuProductivity
 905841709841600513,hasheddan
 67778050,SeattleBubble
 71635004,samuelkarp
