@@ -17,9 +17,9 @@ This repository backs up my
 1. Go to Repository Settings &rarr; Secrets and add secrets from your Twitter
    app:
 
-   - TWITTER_BEARER_TOKEN
    - TWITTER_CONSUMER_KEY
    - TWITTER_CONSUMER_SECRET
+   - TWITTER_ACCESS_TOKEN
    - TWITTER_TOKEN_SECRET
 
 1. See [.github/workflows/update.yml](/.github/workflows/update.yml) and modify
