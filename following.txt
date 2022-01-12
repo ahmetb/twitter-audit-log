@@ -116,7 +116,6 @@
 799616,_JamesWard
 2474676878,lorenc_dan
 289257757,soltysh
-911297187664949248,JeffDean
 173630577,bcantrill
 5674722,dims
 36611939,fehmicansaglam
