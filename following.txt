@@ -138,7 +138,6 @@
 426067300,PatHelland
 2786053933,zei_squirrel
 150517734,tonypujals
-356930534,gabe_monroy
 5435752,jeffwilcox
 100691776,jonjonsonjr
 22565664,urbnlivn
