@@ -193,7 +193,6 @@
 1957401379,MarcJBrooker
 52010687,_danielroth
 755070,willnorris
-374280533,dotMudge
 1455984308758396928,ErinCommarato
 417629465,hey_cait
 1004057478575861760,TwitterOneTeam
@@ -206,4 +205,3 @@
 11393782,erenbali
 1448271795505741833,NotParagAgrawal
 348674206,TwitterTurkiye
-15869538,ariadneconill
