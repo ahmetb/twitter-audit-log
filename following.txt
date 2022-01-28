@@ -151,7 +151,6 @@
 9551792,solomonstre
 1038137052800331776,FairweatherPhD
 2800135940,dbradstock
-21621562,stephenaugustus
 15397636,mauilion
 28255028,gctaylor
 14413240,arschles
