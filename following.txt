@@ -71,7 +71,6 @@
 24465261,cj_cullen
 6603532,b0rk
 2175603630,janet_kuo
-95347396,idvoretskyi
 374291300,westonhutchins
 23660506,ossamaalami
 809489899472633857,the_saad_ali
@@ -204,3 +203,4 @@
 11393782,erenbali
 1448271795505741833,NotParagAgrawal
 348674206,TwitterTurkiye
+22958939,FarahKhurrum
