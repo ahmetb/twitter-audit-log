@@ -13,7 +13,6 @@
 15290915,madbyk
 14130366,sundarpichai
 14287933,caglar10ur
-45036289,OpenAtMicrosoft
 497296988,yildiz
 107586555,eric_brewer
 237002494,crosbymichael
@@ -207,3 +206,4 @@
 69334154,sveesible
 107655313,nevsinmengu
 793795,mycoliza
+605110610,shatil
