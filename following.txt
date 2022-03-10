@@ -204,6 +204,5 @@
 14448514,p_reynolds
 69334154,sveesible
 107655313,nevsinmengu
-793795,mycoliza
 605110610,shatil
 1065249714214457345,TwitterSpaces
