@@ -199,7 +199,6 @@
 348674206,TwitterTurkiye
 22958939,FarahKhurrum
 34919908,eshamow
-1603818258,TwitterIR
 20420396,richardrabbat
 14448514,p_reynolds
 69334154,sveesible
