@@ -33,7 +33,6 @@
 1591197324,ibuildthecloud
 39642510,jeffbeandev
 16868564,thockin
-137788577,Lemonjet
 13478612,davidjustice
 44870846,umutbalkan
 5560152,grampelberg
