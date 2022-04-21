@@ -196,7 +196,6 @@
 348674206,TwitterTurkiye
 34919908,eshamow
 20420396,richardrabbat
-14448514,p_reynolds
 69334154,sveesible
 107655313,nevsinmengu
 605110610,shatil
