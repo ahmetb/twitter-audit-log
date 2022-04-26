@@ -36,10 +36,8 @@
 13478612,davidjustice
 44870846,umutbalkan
 5560152,grampelberg
-29170474,Sirupsen
 62250310,ahmetciftci
 294127712,BrandonPhilips
-1591568383,funcOfJoe
 29255412,tjholowaychuk
 605643,mndoci
 3286770860,CloudNativeFdn
@@ -174,7 +172,6 @@
 604252261,heidiann360
 14110325,jayholler
 14486697,paraga
-14897303,kayvz
 850205068733235200,nicktornow
 857699969263964161,suhemparack
 21985265,kniga
@@ -191,7 +188,6 @@
 1432201304,iximiuz
 18275645,danluu
 22455722,_rsc
-11393782,erenbali
 1448271795505741833,NotParagAgrawal
 348674206,TwitterTurkiye
 34919908,eshamow
@@ -201,3 +197,5 @@
 605110610,shatil
 26195358,thinkingfish
 1396491776739905542,TechEmails
+17005439,taylorleese
+731267189941010432,tccbot
