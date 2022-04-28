@@ -11,7 +11,6 @@
 100206618,sahinbalkan
 113419064,golang
 15290915,madbyk
-14130366,sundarpichai
 14287933,caglar10ur
 497296988,yildiz
 107586555,eric_brewer
