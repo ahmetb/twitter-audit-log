@@ -151,7 +151,6 @@
 13826102,pauldix
 161667651,copyconstruct
 409776846,envarli
-1414403215311790085,chainguard_dev
 61987821,maisem_ali
 255839157,micahlerner
 16292391,sedaunal
@@ -192,7 +191,6 @@
 17005439,taylorleese
 731267189941010432,tccbot
 1162471045611188224,brawnoven
-817083,EricaJoy
 326756275,hasanthehun
 224816746,imTolstoyevski
 14143983,wickman
