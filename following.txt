@@ -198,7 +198,6 @@
 95881469,MrBobbyTables
 835996764,Dixie3Flatline
 14230772,matt_levine
-906103600673415168,learnk8s
 1475231323480543232,GuyDealership
 787086385,fuckyouiquit
 4726207589,ByYourLogic
