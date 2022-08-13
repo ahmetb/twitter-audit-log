@@ -56,7 +56,6 @@
 235129029,agl__
 9726122,theavalkyrie
 18250067,craigbox
-3301796372,aaronprindle
 114391809,apbhatnagar
 75778654,meteatamel
 332018940,SRobTweets
