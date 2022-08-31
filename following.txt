@@ -103,7 +103,6 @@
 240883644,davidstanke
 17394561,ManoMarks
 799616,_JamesWard
-2474676878,lorenc_dan
 289257757,soltysh
 173630577,bcantrill
 5674722,dims
