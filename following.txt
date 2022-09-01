@@ -81,7 +81,6 @@
 236828759,tonistiigi
 1975851,spiffxp
 814033,teich
-14255609,kimsterv
 1022536844976648192,KnativeProject
 847190167542652928,GoogleOSS
 3011668430,grpcio
@@ -116,7 +115,6 @@
 2253762463,RefetGurkaynak
 253943346,fshewl
 1164171858683449344,memenetes
-252731862,jplts
 3453491306,ralph_squillace
 34295510,muratdemirbas
 809642,ImJasonH
@@ -144,7 +142,6 @@
 857689224887365633,isidentical
 23316795,jrrickard
 2916305152,Snowden
-13826102,pauldix
 161667651,copyconstruct
 409776846,envarli
 61987821,maisem_ali
@@ -162,11 +159,9 @@
 604252261,heidiann360
 14110325,jayholler
 14486697,paraga
-857699969263964161,suhemparack
 21985265,kniga
 625893514,CalderBrad
 1472981096656785412,slhmrsrt
-1957401379,MarcJBrooker
 52010687,_danielroth
 755070,willnorris
 1455984308758396928,ErinCommarato
@@ -194,7 +189,7 @@
 95881469,MrBobbyTables
 14230772,matt_levine
 787086385,fuckyouiquit
-4726207589,ByYourLogic
 14440235,myballard
 7419782,elithrar
 19939220,MichaelDaventry
+1412726616447459333,nocontextmengu
