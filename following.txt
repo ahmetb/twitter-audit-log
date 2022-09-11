@@ -138,7 +138,6 @@
 14413240,arschles
 650013,bradfitz
 17055506,martinkl
-1091828269412839424,_joemag_
 857689224887365633,isidentical
 23316795,jrrickard
 2916305152,Snowden
@@ -171,7 +170,6 @@
 22455722,_rsc
 1448271795505741833,NotParagAgrawal
 348674206,TwitterTurkiye
-34919908,eshamow
 69334154,sveesible
 107655313,nevsinmengu
 605110610,shatil
@@ -186,7 +184,6 @@
 1125559272232837121,DominikTornow
 3356531254,internetofshit
 16076032,ggreenwald
-95881469,MrBobbyTables
 14230772,matt_levine
 787086385,fuckyouiquit
 14440235,myballard
