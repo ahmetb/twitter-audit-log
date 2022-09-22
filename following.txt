@@ -124,7 +124,6 @@
 150517734,tonypujals
 5435752,jeffwilcox
 100691776,jonjonsonjr
-124565764,nwmls
 23839835,jeremyscahill
 905841709841600513,hasheddan
 1366293442574319617,projectsigstore
@@ -140,7 +139,6 @@
 17055506,martinkl
 857689224887365633,isidentical
 23316795,jrrickard
-2916305152,Snowden
 161667651,copyconstruct
 409776846,envarli
 61987821,maisem_ali
@@ -186,7 +184,6 @@
 14230772,matt_levine
 14440235,myballard
 7419782,elithrar
-19939220,MichaelDaventry
 1412726616447459333,nocontextmengu
 312897818,jayunit100
 2817956911,EconChrisClarke
