@@ -51,10 +51,8 @@
 2560569758,bgrant0607
 216735143,felipehoffa
 22455608,SandeepDinesh
-3840737293,erjohnso
 480643825,GoldbergChen
 235129029,agl__
-9726122,theavalkyrie
 18250067,craigbox
 114391809,apbhatnagar
 75778654,meteatamel
@@ -126,7 +124,6 @@
 100691776,jonjonsonjr
 23839835,jeremyscahill
 905841709841600513,hasheddan
-1366293442574319617,projectsigstore
 122053508,francesc
 1376638214920753154,ThomasOrTK
 9551792,solomonstre
@@ -186,7 +183,5 @@
 7419782,elithrar
 1412726616447459333,nocontextmengu
 312897818,jayunit100
-2817956911,EconChrisClarke
-1390762874809761793,DefiantLs
 1641852848,_jordanly
 60292747,kerimkarakaya34
