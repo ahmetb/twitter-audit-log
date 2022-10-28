@@ -49,7 +49,6 @@
 38316654,jeffmendoza
 87882675,vicnastea
 2560569758,bgrant0607
-216735143,felipehoffa
 22455608,SandeepDinesh
 480643825,GoldbergChen
 235129029,agl__
@@ -130,7 +129,6 @@
 2800135940,dbradstock
 15397636,mauilion
 28255028,gctaylor
-14413240,arschles
 650013,bradfitz
 17055506,martinkl
 857689224887365633,isidentical
@@ -161,13 +159,11 @@
 1004057478575861760,TwitterOneTeam
 18275645,danluu
 22455722,_rsc
-1448271795505741833,NotParagAgrawal
 348674206,TwitterTurkiye
 69334154,sveesible
 107655313,nevsinmengu
 605110610,shatil
 26195358,thinkingfish
-1396491776739905542,TechEmails
 1162471045611188224,brawnoven
 326756275,hasanthehun
 224816746,imTolstoyevski
