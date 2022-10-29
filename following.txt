@@ -1,5 +1,4 @@
 7567812,grkn
-10809412,rakyll
 7170892,onurka
 40072431,uhrkumru
 21911778,umutgokbayrak
@@ -95,7 +94,6 @@
 15239688,cgillum
 28071888,litacho
 81538231,ParisInBmore
-240883644,davidstanke
 17394561,ManoMarks
 799616,_JamesWard
 289257757,soltysh
@@ -142,7 +140,6 @@
 803133209177272321,clare_liguori
 106090190,micahhausler
 1106616565573844992,Tailscale
-1399766153053061121,TwitterBlue
 2330381,Lethain
 12819682,mitchellh
 40026527,XanderGrzy
