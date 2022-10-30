@@ -54,7 +54,6 @@
 18250067,craigbox
 114391809,apbhatnagar
 75778654,meteatamel
-332018940,SRobTweets
 48452245,WilliamDenniss
 13127822,IanMLewis
 24465261,cj_cullen
@@ -77,10 +76,7 @@
 236828759,tonistiigi
 1975851,spiffxp
 814033,teich
-1022536844976648192,KnativeProject
-847190167542652928,GoogleOSS
 3011668430,grpcio
-15540222,rauchg
 36248645,bassamtabbara
 261533578,johnbelamaric
 957764097692651522,askmeegs
@@ -144,8 +140,6 @@
 12819682,mitchellh
 40026527,XanderGrzy
 783214,Twitter
-604252261,heidiann360
-14486697,paraga
 21985265,kniga
 625893514,CalderBrad
 1472981096656785412,slhmrsrt
@@ -156,7 +150,6 @@
 1004057478575861760,TwitterOneTeam
 18275645,danluu
 22455722,_rsc
-348674206,TwitterTurkiye
 69334154,sveesible
 107655313,nevsinmengu
 605110610,shatil
@@ -166,7 +159,6 @@
 224816746,imTolstoyevski
 14143983,wickman
 1125559272232837121,DominikTornow
-3356531254,internetofshit
 16076032,ggreenwald
 14230772,matt_levine
 14440235,myballard
@@ -184,3 +176,4 @@
 32197613,dmcg
 748615879,cacoco
 44196397,elonmusk
+6650392,the_sttts
