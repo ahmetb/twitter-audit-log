@@ -28,7 +28,6 @@
 210193709,dotpem
 521935978,hausdorff_space
 1591197324,ibuildthecloud
-39642510,jeffbeandev
 16868564,thockin
 13478612,davidjustice
 44870846,umutbalkan
@@ -176,3 +175,4 @@
 44196397,elonmusk
 6650392,the_sttts
 1389666600341544960,altluu
+745273,naval
