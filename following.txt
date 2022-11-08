@@ -3,7 +3,6 @@
 40072431,uhrkumru
 21911778,umutgokbayrak
 10759212,sarp
-16626982,esesci
 79979068,ardendertat
 376825877,TwitterOSS
 100206618,sahinbalkan
@@ -25,7 +24,6 @@
 1198537832,coreos
 21070898,thauburger
 2536271593,carissakarcher
-210193709,dotpem
 521935978,hausdorff_space
 1591197324,ibuildthecloud
 16868564,thockin
