@@ -48,7 +48,6 @@
 22455608,SandeepDinesh
 480643825,GoldbergChen
 235129029,agl__
-18250067,craigbox
 114391809,apbhatnagar
 75778654,meteatamel
 48452245,WilliamDenniss
@@ -149,7 +148,6 @@
 69334154,sveesible
 107655313,nevsinmengu
 605110610,shatil
-26195358,thinkingfish
 1162471045611188224,brawnoven
 326756275,hasanthehun
 224816746,imTolstoyevski
