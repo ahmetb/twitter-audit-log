@@ -18,7 +18,6 @@
 9111432,vgill
 2813398537,kubernetesio
 71531021,gossmanster
-11052222,proppy
 28576494,felixrieseberg
 14797033,daronyondem
 1198537832,coreos
@@ -75,7 +74,6 @@
 3011668430,grpcio
 36248645,bassamtabbara
 261533578,johnbelamaric
-957764097692651522,askmeegs
 6697972,mchmarny
 1021793421541793793,AikasVille
 21694917,steren
@@ -177,3 +175,4 @@
 51674020,krmayank
 52276894,mazdakh
 1449152712310865926,redpandadata
+10809412,rakyll
