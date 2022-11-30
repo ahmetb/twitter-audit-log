@@ -19,7 +19,6 @@
 2813398537,kubernetesio
 71531021,gossmanster
 28576494,felixrieseberg
-14797033,daronyondem
 1198537832,coreos
 21070898,thauburger
 2536271593,carissakarcher
@@ -29,7 +28,6 @@
 13478612,davidjustice
 44870846,umutbalkan
 5560152,grampelberg
-62250310,ahmetciftci
 294127712,BrandonPhilips
 29255412,tjholowaychuk
 605643,mndoci
@@ -55,7 +53,6 @@
 6603532,b0rk
 2175603630,janet_kuo
 374291300,westonhutchins
-23660506,ossamaalami
 809489899472633857,the_saad_ali
 415818433,saraclay15
 16277863,pwittrock
@@ -77,7 +74,6 @@
 6697972,mchmarny
 1021793421541793793,AikasVille
 21694917,steren
-80703,garethr
 862920460077383681,semihenergin
 122923515,embano1
 215300789,nathankpeck
@@ -173,3 +169,4 @@
 52276894,mazdakh
 1449152712310865926,redpandadata
 10809412,rakyll
+30923,rands
