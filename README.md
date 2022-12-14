@@ -1,11 +1,12 @@
 # Twitter account backup/audit via GitHub Actions
 
-This repository backs up various Twitter data of [my account](https://twitter.com/ahmetb):
+This repository periodically runs a GitHub Action to backup various
+parts of [my Twitter account](https://twitter.com/ahmetb):
 
-- [follower list](followers.txt) (works up to 75k followers)
+- [follower list](followers.txt) (works up to 75k followers due to rate limits)
 - [following list](following.txt)
 - [blocked accounts list](blocked_accounts.txt) and
-- [muted accounts list](mutes.txt) periodically using GitHub Actions.
+- [muted accounts list](mutes.txt)
 
 (Twitter does not offer an API for exporting muted words.)
 
