@@ -15,7 +15,6 @@
 1138959692,Docker
 159822053,kelseyhightower
 156918516,mertdumenci
-9111432,vgill
 2813398537,kubernetesio
 71531021,gossmanster
 28576494,felixrieseberg
@@ -161,3 +160,5 @@
 1591087335512293376,bestofdyingtwit
 915613265748795394,coffeebreak_YT
 808464904575299584,ZoeSchiffer
+102594136,oneunderscore__
+291,goldman
