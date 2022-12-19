@@ -134,7 +134,6 @@
 326756275,hasanthehun
 224816746,imTolstoyevski
 14143983,wickman
-1125559272232837121,DominikTornow
 14440235,myballard
 7419782,elithrar
 1412726616447459333,nocontextmengu
