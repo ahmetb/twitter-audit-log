@@ -42,7 +42,6 @@
 22455608,SandeepDinesh
 480643825,GoldbergChen
 114391809,apbhatnagar
-75778654,meteatamel
 48452245,WilliamDenniss
 13127822,IanMLewis
 24465261,cj_cullen
@@ -159,4 +158,4 @@
 808464904575299584,ZoeSchiffer
 102594136,oneunderscore__
 676573,tobi
-416895176,marknotfound
+156417821,mikecvet
