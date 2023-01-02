@@ -131,7 +131,6 @@
 224816746,imTolstoyevski
 14143983,wickman
 14440235,myballard
-7419782,elithrar
 1412726616447459333,nocontextmengu
 1641852848,_jordanly
 95881469,MrBobbyTables
