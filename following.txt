@@ -30,7 +30,6 @@
 294127712,BrandonPhilips
 29255412,tjholowaychuk
 605643,mndoci
-3286770860,CloudNativeFdn
 347488218,tiffanyfayj
 197263266,rob_pike
 10520572,gregsramblings
@@ -159,3 +158,4 @@
 938901720016363520,umachingunde
 15996661,LisaBloom
 2674458072,IfNotNowOrg
+62784370,kkakkoyun
