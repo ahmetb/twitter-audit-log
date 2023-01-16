@@ -29,7 +29,6 @@
 5560152,grampelberg
 294127712,BrandonPhilips
 29255412,tjholowaychuk
-605643,mndoci
 347488218,tiffanyfayj
 197263266,rob_pike
 10520572,gregsramblings
@@ -144,7 +143,6 @@
 17005439,maybettl
 10809412,rakyll
 46441293,whereistanya
-19040598,MikeIsaac
 709065850767204352,jimmyzelinskie
 915613265748795394,coffeebreak_YT
 808464904575299584,ZoeSchiffer
@@ -157,3 +155,4 @@
 2674458072,IfNotNowOrg
 62784370,kkakkoyun
 1518882337966198784,kcp
+86892924,derivativeburke
