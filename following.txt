@@ -156,3 +156,4 @@
 1473648365476921344,kube_vip
 174384311,serhatgiydiren
 1007659496,houlihan_rick
+2740534176,tipgenelmerkez
