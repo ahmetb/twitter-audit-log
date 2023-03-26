@@ -72,7 +72,6 @@
 81538231,ParisInBmore
 17394561,ManoMarks
 799616,_JamesWard
-289257757,soltysh
 173630577,bcantrill
 5674722,dims
 36611939,fehmicansaglam
