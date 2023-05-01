@@ -1,3 +1,7 @@
+> :warning: Doesn't work anymore. Needs to be ported to /v2/ but even then 
+> basic API tier doesn't have access to follower list and the endpoints
+> we use here. Thanks El*n.
+
 # Twitter account backup/audit via GitHub Actions
 
 This repository periodically runs a GitHub Action to backup various
